@@ -1,0 +1,22 @@
+{
+    "access-cm2": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
+        "aerosol": {
+            "initializedFrom": ""
+        }, 
+        "atmos": {
+            "initializedFrom": ""
+        }, 
+        "land": {
+            "initializedFrom": ""
+        }, 
+        "ocean": {
+            "initializedFrom": ""
+        }, 
+        "seaice": {
+            "initializedFrom": ""
+        }
+    }
+}
