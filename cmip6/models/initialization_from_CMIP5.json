@@ -1,7 +1,7 @@
 {
     "access-cm2": {
         "toplevel": {
-            "initializedFrom": ""
+            "initializedFrom": "cmip5:ACCESS1.3"
         }, 
         "aerosol": {
             "initializedFrom": ""
@@ -10,10 +10,10 @@
             "initializedFrom": ""
         }, 
         "land": {
-            "initializedFrom": ""
+            "initializedFrom": "cmip5:ACCESS1.3"
         }, 
         "ocean": {
-            "initializedFrom": ""
+            "initializedFrom": "cmip5:ACCESS1.3"
         }, 
         "seaice": {
             "initializedFrom": ""
